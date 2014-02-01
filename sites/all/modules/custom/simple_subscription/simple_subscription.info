@@ -1,0 +1,6 @@
+name = Simple Subscription
+description = Provides a simple subscription
+
+package = Custom
+version = 7.x-1.1
+core = 7.x
